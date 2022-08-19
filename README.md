@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreysoral&label=Profile%20views&color=0e75b6&style=flat" alt="shreysoral" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreysoral" alt="shreysoral" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m want to contribute to **open source projects**
 
 - 📫 How to reach me **shreysoral@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

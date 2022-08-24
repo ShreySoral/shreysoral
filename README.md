@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m want to contribute to **open source projects**
+- 👯 I want to contribute to **open source projects**
 
 - 📫 How to reach me **shreysoral@gmail.com**
 

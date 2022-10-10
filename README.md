@@ -10,7 +10,7 @@
 <a href="https://github.com/shreysoral" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/shreysoral" target="_blank">
+<a href="https://www.linkedin.com/in/shrey-soral-2997101b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkj1MsxHMTFuLIqF%2Bzx%2BdzQ%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  

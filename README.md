@@ -27,6 +27,3 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 <div align=""><img src="https://github-readme-stats.vercel.app/api?username=shreysoral&show_icons=true&count_private=true&hide_border=true" align="" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreysoral&hide_border=true&layout=compact" align="" />  
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=shreysoral&" alt="shreysoral" /></p>
